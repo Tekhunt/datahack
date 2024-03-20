@@ -1,0 +1,33 @@
+# Ignore data files with .csv extension. We should be zipping files before uploading to GitHub
+*.csv
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore data files (only use this if data is stored elsewhere or is sensitive)
+data/
+
+# Ignore model files (only use this if models are stored elsewhere)
+models/
+
+# Ignore local configuration files
+*.ini
+*.conf
+*.env
+
+# Ignore logs and other generated files
+*.log
+*.csv
+*.xlsx
+*.pkl
+
+# Ignore system files
+.DS_Store
+Thumbs.db
