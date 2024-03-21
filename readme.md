@@ -15,7 +15,7 @@ We are a passionate team of data enthusiasts who love to dive deep into data, an
 
 ## Projects
 
-Here are some of the projects we'reintereted in:
+Here are some of the projects we are interested in:
 
 1. **Sentiment Analysis:** Analyzing sentiment trends on social media platforms using natural language processing techniques.
 
