@@ -1,68 +1,35 @@
 # BENGALURU HOUSE PRICE PREDICTION
 
+## Overview
+
+This project aims to develop a regression model for predicting house prices in Bengaluru, India. The dataset used for this project is sourced from Kaggle and contains information about various factors that may influence house prices in the Bengaluru real estate market.
+
+## Project Details
+The dataset used in this project is sourced from Kaggle and contains the following features:
+
+- area_type: Name of the area where the property is situated.
+- location: Location of the property in Bengaluru.
+- rooms: Number of rooms in the property.
+- bathrooms: Number of bathrooms in the property.
+- price: Price of the property (target variable).
+- total_sqft: Total squarefoot of the property
+- ... (other relevant features)
+
 ## Project Description:
 
-Our team is tasked with building a regression model to predict house prices in Bengaluru, India. The project aims to provide valuable insights to potential homebuyers and stakeholders in the real estate industry. With factors such as location, property size, proximity to key amenities, and market trends influencing house prices, the project will involve comprehensive data analysis and modeling techniques. By leveraging datasets containing information on housing attributes and market trends, we aim to develop an accurate predictive model that can assist homebuyers in making informed decisions and provide insights to stakeholders in the real estate sector. Through meticulous data cleaning, feature engineering, model development, and validation, our team endeavors to create a robust regression model that captures the nuances of Bengaluru's housing market dynamics.
+## Objective
 
-## TEAM MEMBERS AND TASKS
+The main objective of this project is to develop a regression model that accurately predicts house prices in Bengaluru based on the available features. By leveraging machine learning techniques, we aim to provide valuable insights to potential homebuyers and stakeholders in the real estate industry.
 
-## Ekemini - Data Cleaning and Preprocessing:
+## Getting Started
 
-**Assignment**: This team member will handle data cleaning, addressing missing values, outliers, and preprocessing tasks to prepare the dataset for modeling.
+### Installation
+To run this project locally, you'll need Python and the following libraries:
 
-### Tasks:
-- Identify and handle missing values, outliers, and data inconsistencies.
-- Standardize or normalize numerical features if necessary.
-- Encode categorical variables appropriately.
-- Document the cleaning and preprocessing steps taken.
-
-
-## Afeez (David will be assisting Afeez on this) - Feature Engineering and Selection.
-
-**Assignment**: This team member will focus on creating new features, exploring interactions, and selecting the most relevant features for modeling.
-
-### Tasks:
-- Explore feature interactions and create new features based on domain knowledge.
-- Conduct feature selection to choose the most important predictors for the model.
-- Document the feature engineering process and rationale for feature selection decisions.
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
 
 
-## Naza - Model Development and Optimization:
-
-**Assignment**: This team member will be responsible for building, training, and optimizing regression models to predict house prices.
-
-### Tasks:
-- Select appropriate regression algorithms (e.g., linear regression, decision trees, random forest, gradient boosting).
-- Split the dataset into training and testing sets.
-- Train multiple models and tune hyperparameters using techniques like cross-validation.
-- Evaluate model performance using appropriate metrics and select the best-performing model.
-
-
-## Kene - Validation and Model Evaluation:
-
-**Assignment**: This team member will validate the model's performance, conduct additional evaluations, and provide insights into its effectiveness.
-
-### Tasks:
-- Validate the trained models using unseen data and cross-validation techniques.
-- Perform additional evaluations such as sensitivity analysis or residual analysis.
-- Provide insights into the model's strengths, weaknesses, and potential areas of improvement.
-- Document the validation and evaluation results for the team's reference.
-
-
-## David - Results Communication and Documentation:
-
-**Assignment**: This team member will be responsible for communicating the results of the analysis effectively and documenting the entire process.
-
-### Tasks:
-- Prepare visualizations to present key findings and insights.
-- Document the data cleaning, preprocessing, and feature engineering steps.
-- Summarize the model development process and results.
-- Create a final report or presentation for stakeholders.
-- Prepare any necessary documentation for future reference.
-
-## Chizzy 
-Your assignment is to provide supervisory guidance throughout the project lifecycle. This includes overseeing the data cleaning, preprocessing, feature engineering, model development, and evaluation processes. Your expertise will be instrumental in making strategic decisions, resolving any challenges that arise, and ensuring the final model meets our objectives effectively. 
-
-Each team member is expected to collaborate closely throughout the project, sharing insights, discussing challenges, and providing feedback to ensure the success of the project.
-
-Should you have any concerns or questions, feel free to reach out to Naza.
