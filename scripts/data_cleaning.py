@@ -31,7 +31,7 @@ def wrangle(filepath):
 
     
     '''
-    df = pd.read_csv("bengaluru_house_prices.csv")
+    df = pd.read_csv(filepath)
     
     #drop columns with less useful information
     df.drop(columns=['society', 'availability', 'area_type'], inplace=True)
