@@ -41,7 +41,7 @@
 - Perform additional evaluations such as sensitivity analysis or residual analysis.
 - Provide insights into the model's strengths, weaknesses, and potential areas of improvement.
 - Document the validation and evaluation results for the team's reference.
-
+**Additionally, kindly generate a requirements.txt file for our project**
 
 ## ungest (David) - Results Communication and Documentation:
 
