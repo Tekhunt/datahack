@@ -55,12 +55,6 @@ The main objective of this project is to develop a regression model that accurat
 ## Getting Started
 
 ### Installation
-To run this project locally, you'll need Python and the following libraries:
-
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
+To run this project locally, you'll need Python and all the dependencies in the requirements.txt file
 
 
