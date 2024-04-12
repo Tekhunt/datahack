@@ -11,6 +11,7 @@ venv/
 env/
 .venv/
 *venv/
+
 # Ignore data files (only use this if data is stored elsewhere or is sensitive)
 data/
 
