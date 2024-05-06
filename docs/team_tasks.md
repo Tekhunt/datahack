@@ -1,5 +1,28 @@
 ## TEAM MEMBERS AND TASKS
 
+## Updated Team Task
+
+This document outlines the tasks assigned to each team member for the completion of our project. Please review your assigned task and ensure its completion before deadline.
+
+## 1. Decision Tree Regression (Assigned to Afezhus - Afeez)
+Task: Implement decision tree regression to model the dataset's patterns effectively.
+
+## 2. Random Forest Regression (Assigned to Naza)
+Task: Spearhead the implementation of random forest regression to capture complex non-linear relationships in the data.
+
+## 3. Support Vector Regression (SVR) (Assigned to David - Ungest)
+Task: Lead the SVR implementation, utilizing kernel functions to capture intricate non-linear relationships.
+
+## 4. Gradient Boosting Regression (Assigned to TechKene - Kene)
+Task: Take charge of gradient boosting regression, combining multiple weak learners to capture complex patterns in the data.
+
+## 5. ElasticNet Regression (Assigned to Ekemini Mbabah)
+Task: Head our ElasticNet regression efforts, balancing L1 and L2 regularization to capture both linear and non-linear relationships.
+
+### **Please ensure that your assigned task is completed by then to maintain project progress.**
+
+
+## Previous Task
 ## ekeminimbaba - Data Cleaning and Preprocessing:
 
 **Assignment**: This team member will handle data cleaning, addressing missing values, outliers, and preprocessing tasks to prepare the dataset for modeling.
