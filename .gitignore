@@ -14,7 +14,7 @@ env/
 *env/
 
 # Ignore data files (only use this if data is stored elsewhere or is sensitive)
-data/
+# data/
 
 # Ignore model files (only use this if models are stored elsewhere)
 models/
